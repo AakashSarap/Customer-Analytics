@@ -5,7 +5,8 @@ This is a full-stack data science pipeline for customer behavior analysis starti
 ## Business Problems
 
 <li>What is the percentage change in Revenue & Sales and what is the Customer Acquisition rate over the time?
-<li>Which cohort perfromed well & what are the key changes in the product or features that are driving the varied cohort performances for the e-commerce business?
+<li>Which cohort perfromed well in terms of retention, average sales and revenue? 
+<li>What are the key changes in the product or features that are driving the varied cohort performances for the e-commerce business?
 <li>Which customers are frequrntly purschasing and who are not? Identify the set of customers driving most of the revenue for the buniness?
 <li>What personalized marketing techniques shall we use to grow sales and customer base?
 <li>What is the best combination of products to recommend to the customers?
