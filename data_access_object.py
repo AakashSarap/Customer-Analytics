@@ -16,7 +16,7 @@ import boto3
 
 # Connect to the PostgreSQL database
 conn = psycopg2.connect(host="database-2.cqklbhslpxrg.us-east-2.rds.amazonaws.com",
-                        database="", user="postgres", password="uEaI6UMFSyAvMPRwFDac")
+                        database="", user="postgres", password="*******************")
 # Create a new cursor
 cur = conn.cursor()
 
@@ -50,8 +50,8 @@ def get_data():
 # defining AWS s3 details
 s3_bucket = 'sarap-a'
 region = 'us-east-2'
-access_key_id = 'AKIAUEO24LPUZLCJE5HB'
-secret_access_key = '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'
+access_key_id = 'ACCESS_KEY_ID'
+secret_access_key = 'SECRET_ACCESS_KEY'
 file_key = 'data_transformed.csv'    
 
 
